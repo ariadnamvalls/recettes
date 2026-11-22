@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mes Recettes</title>
+    <link rel="stylesheet" href="assets/style.css?v=793c1bb4d5">
+    <link rel="preload" id="recipes-data" href="recipes.json?v=0d002b8bba" as="fetch" crossorigin>
+    <link rel="prefetch" href="recipes/banana-bread-pistaccio.html">
+    <link rel="prefetch" href="recipes/barres-dattes.html">
+    <link rel="prefetch" href="recipes/basboussa.html">
+    <link rel="prefetch" href="recipes/bechamel.html">
+    <link rel="prefetch" href="recipes/blanquette-veau.html">
+    <link rel="prefetch" href="recipes/bouchons-chataigne.html">
+    <link rel="prefetch" href="recipes/brandade-morue.html">
+    <link rel="prefetch" href="recipes/brownie-betterave.html">
+    <link rel="prefetch" href="recipes/brownie-noix.html">
+    <link rel="prefetch" href="recipes/cake-sarrasin.html">
+    <link rel="prefetch" href="recipes/canneles.html">
+    <link rel="prefetch" href="recipes/caramel-beurre-sale.html">
+    <link rel="prefetch" href="recipes/caramel.html">
+    <link rel="prefetch" href="recipes/carrot-cake.html">
+    <link rel="prefetch" href="recipes/cheesecake.html">
+    <link rel="prefetch" href="recipes/coca-yaourt.html">
+    <link rel="prefetch" href="recipes/combinado-colombien.html">
+    <link rel="prefetch" href="recipes/cookies-julia.html">
+    <link rel="prefetch" href="recipes/crackers.html">
+    <link rel="prefetch" href="recipes/creme-catalane.html">
+    <link rel="prefetch" href="recipes/creme-patissiere.html">
+    <link rel="prefetch" href="recipes/creme-renversee.html">
+    <link rel="prefetch" href="recipes/crumble-sale.html">
+    <link rel="prefetch" href="recipes/crumble.html">
+    <link rel="prefetch" href="recipes/cunapes.html">
+    <link rel="prefetch" href="recipes/curry-thai.html">
+    <link rel="prefetch" href="recipes/far-breton.html">
+    <link rel="prefetch" href="recipes/feuilles-brick.html">
+    <link rel="prefetch" href="recipes/feves-catalane.html">
+    <link rel="prefetch" href="recipes/fideua.html">
+    <link rel="prefetch" href="recipes/flan-coco.html">
+    <link rel="prefetch" href="recipes/flan-patissier.html">
+    <link rel="prefetch" href="recipes/frangipane.html">
+    <link rel="prefetch" href="recipes/gateau-chataignes.html">
+    <link rel="prefetch" href="recipes/gateau-chocolat.html">
+    <link rel="prefetch" href="recipes/gateau-noix.html">
+    <link rel="prefetch" href="recipes/gateau-pommes.html">
+    <link rel="prefetch" href="recipes/gateau-semoule.html">
+    <link rel="prefetch" href="recipes/gaufres-liegeoises.html">
+    <link rel="prefetch" href="recipes/gazpacho.html">
+    <link rel="prefetch" href="recipes/glacage-frosting.html">
+    <link rel="prefetch" href="recipes/granola.html">
+    <link rel="prefetch" href="recipes/gratin-aubergines.html">
+    <link rel="prefetch" href="recipes/hachis-parmentier.html">
+    <link rel="prefetch" href="recipes/haricots-blancs-orecchiette.html">
+    <link rel="prefetch" href="recipes/hummus-iranien.html">
+    <link rel="prefetch" href="recipes/kasespatzle.html">
+    <link rel="prefetch" href="recipes/lasagnes.html">
+    <link rel="prefetch" href="recipes/macarons.html">
+    <link rel="prefetch" href="recipes/madeleines-yaourt.html">
+    <link rel="prefetch" href="recipes/moelleux-chocolat-farida.html">
+    <link rel="prefetch" href="recipes/moelleux-citron-framboises.html">
+    <link rel="prefetch" href="recipes/mousse-chocolat.html">
+    <link rel="prefetch" href="recipes/nougat-glace.html">
+    <link rel="prefetch" href="recipes/nuggets.html">
+    <link rel="prefetch" href="recipes/paella.html">
+    <link rel="prefetch" href="recipes/pain-epices.html">
+    <link rel="prefetch" href="recipes/pate-crepes.html">
+    <link rel="prefetch" href="recipes/pate-galettes.html">
+    <link rel="prefetch" href="recipes/pate-pizzas.html">
+    <link rel="prefetch" href="recipes/pate-sablee.html">
+    <link rel="prefetch" href="recipes/pommes-de-terre-seitan.html">
+    <link rel="prefetch" href="recipes/popcorn.html">
+    <link rel="prefetch" href="recipes/pulled-pork.html">
+    <link rel="prefetch" href="recipes/sirop-citron-gingembre.html">
+    <link rel="prefetch" href="recipes/soupe-azteque.html">
+    <link rel="prefetch" href="recipes/soupe-oignon.html">
+    <link rel="prefetch" href="recipes/tarte-citron.html">
+    <link rel="prefetch" href="recipes/tarte-coco.html">
+    <link rel="prefetch" href="recipes/tarte-tatin.html">
+    <link rel="prefetch" href="recipes/tartiflette.html">
+    <link rel="prefetch" href="recipes/the-chai-masala.html">
+    <link rel="prefetch" href="recipes/tiramisu.html">
+    <link rel="prefetch" href="recipes/tortilla-vegane.html">
+    <link rel="prefetch" href="recipes/tuiles-amandes.html">
+    <script type="module" src="assets/app.js?v=e9322c862f"></script>
+  </head>
+  <body>
+    <main class="recipe-index">
+      <h1>Mes Recettes</h1>
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <input id="recipe-search" type="search" aria-label="Search recipes" autocomplete="off">
+      </label>
+      <div class="tag-cloud" id="tag-cloud"></div>
+      <div class="recipe-grid" id="recipe-grid"></div>
+    </main>
+    <footer class="site-footer">
+      Built with
+      <a href="https://github.com/leplatrem/python-recettes">Recettes</a>, the free software
+      that turns Markdown files into a recipes website.
+    </footer>
+
+    <template id="tag-cloud-item-template">
+      <button class="tag-cloud-item" type="button" aria-pressed="false">
+        <span data-tag-name></span>
+        <span data-tag-count></span>
+      </button>
+    </template>
+
+    <template id="recipe-card-template">
+      <article class="recipe-card">
+        <a>
+          <div class="card-body">
+            <h2 data-recipe-title></h2>
+            <p class="card-excerpt" data-recipe-excerpt></p>
+            <div class="recipe-tags" data-recipe-tags></div>
+          </div>
+          <img class="card-image" data-recipe-image alt="" loading="lazy" hidden>
+          <span class="card-arrow" aria-hidden="true">↗</span>
+        </a>
+      </article>
+    </template>
+
+    <template id="recipe-tag-template">
+      <span class="tag" data-tag-label></span>
+    </template>
+  </body>
+</html>
