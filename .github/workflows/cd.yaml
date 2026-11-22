@@ -26,7 +26,7 @@ jobs:
       - name: Install Recettes
         run: uv tool install recettes
       - name: Build recipe website
-        run: recettes build recipes --destination site --title "Mes Recettes"
+        run: recettes build recipes --destination site --title "Mis Recetas"
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
