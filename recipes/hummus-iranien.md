@@ -2,7 +2,7 @@
 title: Hummus iranien
 preparation: 15min
 cuisson: 15min
-tags: snack, vegetariano, vegan, économique
+tags: snack, vegetariano, vegano, économique
 lang: fr
 ---
 
