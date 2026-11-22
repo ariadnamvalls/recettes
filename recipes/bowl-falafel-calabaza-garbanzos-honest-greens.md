@@ -1,5 +1,5 @@
 ---
-title: Bowl de falafel, calabaza asada y garbanzos (Honest Greens)
+title: Bowl de falafel, calabaza asada y garbanzos
 portions: 2
 preparation: 15min
 cuisson: 30min
