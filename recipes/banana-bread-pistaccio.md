@@ -2,7 +2,6 @@
 title: Banana Bread Pistaches
 portions: 10
 preparation: 5min
-cuisson: 40min
 tags: dessert, gâteau
 lang: fr
 ---
