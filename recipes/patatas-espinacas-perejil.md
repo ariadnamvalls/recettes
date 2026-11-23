@@ -1,8 +1,8 @@
 ---
-title: Patatas con espinacas y perejil
+title: Patatas con espinacas
 portions: 2
 cuisson: 25min
-tags: plato, vegano, fácil, completadas
+tags: vegano, 
 lang: es
 ---
 
@@ -20,4 +20,4 @@ lang: es
 
 ## Paso 3
 
-*Mezclar* con las patatas, añadir {{ perejil }} picado y salpimentar.
+*Mezclar* con las patatas, y *sofreir* todo junto con buen aceite. salpimentar.
