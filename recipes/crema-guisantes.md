@@ -3,7 +3,7 @@ title: Crema de guisantes
 portions: 2
 preparation: 5min
 cuisson: 15min
-tags: sopa, entrante, vegano, fácil, completadas
+tags: sopa, vegano, fácil, completadas
 lang: es
 ---
 
