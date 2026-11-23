@@ -1,6 +1,6 @@
 ---
 title: Paté de champiñones
-tags: entrante, vegano, completadas
+tags: entrante, vegano, dip
 lang: es
 ---
 
