@@ -3,7 +3,7 @@ title: Babaganush
 portions: 4
 preparation: 10min
 cuisson: 40min
-tags: entrante, vegano, completadas
+tags: entrante, vegano, dip
 lang: es
 ---
 
