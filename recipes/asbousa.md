@@ -3,7 +3,7 @@ title: Asbousa
 portions: 8
 preparation: 15min
 cuisson: 35min
-tags: postre, bizcocho, vegetariano, completadas
+tags: postre, bizcocho, completadas
 lang: es
 ---
 
