@@ -1,6 +1,6 @@
 ---
 title: Crocchette di melanzane e patate
-tags: entrante, vegetariano, Nonna
+tags: entrante, vegetariano, nonna
 lang: it
 ---
 

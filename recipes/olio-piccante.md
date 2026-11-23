@@ -1,6 +1,6 @@
 ---
 title: Olio piccante
-tags: salsa, vegano, Nonna
+tags: salsa, vegano, nonna
 lang: it
 ---
 

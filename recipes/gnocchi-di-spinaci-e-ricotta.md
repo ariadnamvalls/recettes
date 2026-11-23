@@ -1,7 +1,7 @@
 ---
 title: Gnocchi di spinaci e ricotta
 portions: 3
-tags: pasta, vegetariano, Nonna
+tags: pasta, vegetariano, nonna
 lang: it
 ---
 

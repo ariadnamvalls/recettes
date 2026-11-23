@@ -1,6 +1,6 @@
 ---
 title: Fave spezzate
-tags: legumbres, vegano, Nonna
+tags: legumbres, vegano, nonna
 lang: it
 ---
 

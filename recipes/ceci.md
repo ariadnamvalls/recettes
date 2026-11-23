@@ -1,6 +1,6 @@
 ---
 title: Ceci
-tags: legumbres, pasta, vegano, Nonna
+tags: legumbres, pasta, vegano, nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Zucchine
-tags: entrante, vegano, Nonna
+tags: entrante, vegano, nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Gnocchi
-tags: pasta, vegetariano, Nonna
+tags: pasta, vegetariano, nonna
 lang: it
 ---
 

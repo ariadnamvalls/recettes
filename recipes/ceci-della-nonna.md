@@ -1,6 +1,6 @@
 ---
 title: Ceci della nonna
-tags: legumbres, vegano, Nonna
+tags: legumbres, vegano, nonna
 lang: it
 ---
 

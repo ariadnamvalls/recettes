@@ -1,6 +1,6 @@
 ---
 title: Pasta con fagioli bianchi
-tags: pasta, legumbres, vegano, Nonna
+tags: pasta, legumbres, vegano, nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Peperonata
-tags: vegano, Nonna
+tags: vegano, nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cartellate
-tags: postre, vegano, Nonna
+tags: postre, vegano, nonna
 lang: it
 ---
 

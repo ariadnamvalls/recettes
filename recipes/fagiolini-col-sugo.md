@@ -1,6 +1,6 @@
 ---
 title: Fagiolini col sugo
-tags: vegano, Nonna
+tags: vegano, nonna
 lang: it
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Parmigiana
 cuisson: 20min
-tags: vegetariano, Nonna
+tags: vegetariano, nonna
 lang: it
 ---
 

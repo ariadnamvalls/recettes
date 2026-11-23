@@ -1,7 +1,7 @@
 ---
 title: Pizza napoletana by Peppino
 portions: 11
-tags: pan, vegano, Nonna
+tags: pan, vegano, nonna
 lang: it
 ---
 

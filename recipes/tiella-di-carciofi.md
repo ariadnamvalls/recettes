@@ -1,6 +1,6 @@
 ---
 title: Tiella di carciofi
-tags: vegetariano, Nonna
+tags: vegetariano, nonna
 lang: it
 ---
 

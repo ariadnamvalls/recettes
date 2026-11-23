@@ -2,7 +2,7 @@
 title: Friselle con cherry, mozzarella e bomba calabrese
 portions: 2
 preparation: 10min
-tags: entrante, vegetariano, Nonna
+tags: entrante, vegetariano, nonna
 lang: it
 ---
 

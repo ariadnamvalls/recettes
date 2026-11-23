@@ -1,6 +1,6 @@
 ---
 title: Carciofi / broccoli "fritti"
-tags: entrante, vegetariano, Nonna
+tags: entrante, vegetariano, nonna
 lang: it
 ---
 

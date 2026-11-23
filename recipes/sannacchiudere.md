@@ -1,6 +1,6 @@
 ---
 title: Sannacchiudere
-tags: postre, Nonna
+tags: postre, nonna
 lang: it
 ---
 
