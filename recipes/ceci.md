@@ -1,6 +1,6 @@
 ---
 title: Ceci
-tags: plato, legumbres, pasta, vegano, invierno, Nonna
+tags: legumbres, pasta, vegano, Nonna
 lang: it
 ---
 

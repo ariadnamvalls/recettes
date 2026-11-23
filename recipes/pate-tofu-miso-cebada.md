@@ -1,7 +1,7 @@
 ---
 title: Paté de tofu y miso de cebada
 preparation: 10min
-tags: entrante, base, vegano, rápido, completadas
+tags: entrante, vegano, completadas
 lang: es
 ---
 

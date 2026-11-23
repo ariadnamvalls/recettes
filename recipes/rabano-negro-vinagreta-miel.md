@@ -2,7 +2,7 @@
 title: Rábano negro con vinagreta de miel
 portions: 2
 preparation: 10min
-tags: entrante, ensalada, vegetariano, fácil, invierno, completadas
+tags: entrante, ensalada, vegetariano, completadas
 lang: es
 ---
 

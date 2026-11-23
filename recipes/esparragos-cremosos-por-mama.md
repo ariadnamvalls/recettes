@@ -1,6 +1,6 @@
 ---
 title: Espárragos cremosos por mamá
-tags: plato, vegetariano, rápido
+tags: vegetariano
 lang: es
 ---
 

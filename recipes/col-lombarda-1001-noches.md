@@ -1,6 +1,6 @@
 ---
 title: Col lombarda 1001 noches
-tags: plato, vegano, invierno
+tags: vegano
 lang: es
 ---
 

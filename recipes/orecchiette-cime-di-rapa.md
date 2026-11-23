@@ -3,7 +3,7 @@ title: Orecchiette e cime di rapa
 portions: 4
 preparation: 20min
 cuisson: 20min
-tags: plato, pasta, vegano, invierno, completadas, Nonna
+tags: pasta, vegano, completadas, Nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bebida de flor de Jamaica y jengibre
-tags: bebida, vegano, verano
+tags: bebida, vegano
 lang: es
 ---
 

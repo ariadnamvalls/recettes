@@ -2,7 +2,7 @@
 title: Sándwich de comté, berenjena y dátiles con olivada y mostaza
 portions: 1
 preparation: 15min
-tags: plato, vegetariano, queso, rápido, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sopa de ñame
-tags: plato, sopa, vegetariano, queso
+tags: sopa, vegetariano
 lang: es
 ---
 

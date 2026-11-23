@@ -1,6 +1,6 @@
 ---
 title: Melanzane
-tags: entrante, vegano, fácil, verano, Nonna
+tags: entrante, vegano, Nonna
 lang: it
 ---
 

@@ -3,7 +3,7 @@ title: Ensalada de calabacín al horno con tomates secos y queso de oveja
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: ensalada, entrante, vegetariano, queso, completadas
+tags: ensalada, entrante, vegetariano, completadas
 lang: es
 ---
 

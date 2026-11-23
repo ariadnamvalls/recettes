@@ -1,6 +1,6 @@
 ---
 title: Panzerotti
-tags: snack, vegetariano, queso
+tags: vegetariano
 lang: es
 ---
 

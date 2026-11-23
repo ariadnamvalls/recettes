@@ -1,6 +1,6 @@
 ---
 title: “Tortilla” de espinacas vegana
-tags: plato, vegano, sin-gluten
+tags: vegano, sin-gluten
 lang: es
 ---
 

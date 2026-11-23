@@ -1,7 +1,7 @@
 ---
 title: Pasta alla siciliana
 cuisson: 20min
-tags: plato, pasta, vegetariano, queso, duda, Nonna
+tags: pasta, vegetariano, Nonna
 lang: it
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Cake salado de trigo sarraceno
 cuisson: 40min
-tags: plato, vegetariano, sin-gluten, completadas
+tags: vegetariano, sin-gluten, completadas
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Lasaña de soja texturizada
 portions: 4
 preparation: 30min
 cuisson: 30min
-tags: plato, pasta, vegetariano, queso, completadas
+tags: pasta, vegetariano, completadas
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Falafel con berenjena y zanahoria a la brasa sobre base de tahini
 portions: 2
 preparation: 15min
 cuisson: 20min
-tags: plato, legumbres, vegano, completadas
+tags: legumbres, vegano, completadas
 lang: es
 ---
 

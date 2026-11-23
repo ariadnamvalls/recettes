@@ -2,7 +2,7 @@
 title: Pizza de patata
 portions: 2
 cuisson: 15min
-tags: plato, pan, vegetariano, queso, adivinadas
+tags: pan, vegetariano, adivinadas
 lang: es
 ---
 

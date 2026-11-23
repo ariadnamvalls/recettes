@@ -1,7 +1,7 @@
 ---
 title: Chile vegano
 cuisson: 30min
-tags: plato, legumbres, vegano
+tags: legumbres, vegano
 lang: es
 ---
 

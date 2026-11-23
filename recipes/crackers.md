@@ -1,7 +1,7 @@
 ---
 title: Crackers
 cuisson: 30min
-tags: snack, vegetariano, queso, sin-gluten
+tags: vegetariano, sin-gluten
 lang: es
 ---
 

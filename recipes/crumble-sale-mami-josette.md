@@ -1,6 +1,6 @@
 ---
 title: Crumble salé de Mami Josette
-tags: plato, vegetariano, queso, duda
+tags: vegetariano
 lang: es
 ---
 

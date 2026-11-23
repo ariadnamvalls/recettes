@@ -2,7 +2,7 @@
 title: Lasaña vegetariana
 portions: 6
 cuisson: 40min
-tags: plato, pasta, vegetariano, queso
+tags: pasta, vegetariano
 lang: es
 ---
 

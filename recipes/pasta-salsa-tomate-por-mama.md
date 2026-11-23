@@ -1,7 +1,7 @@
 ---
 title: Pasta con salsa de tomate por mamá
 cuisson: 45min
-tags: plato, pasta, vegetariano, queso
+tags: pasta, vegetariano
 lang: es
 ---
 

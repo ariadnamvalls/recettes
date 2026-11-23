@@ -3,7 +3,7 @@ title: Zuppa di spigola
 portions: 2
 preparation: 10min
 cuisson: 30min
-tags: plato, sopa, pescado, completadas, Nonna
+tags: sopa, pescado, completadas, Nonna
 lang: it
 ---
 

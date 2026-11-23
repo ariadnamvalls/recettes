@@ -3,7 +3,7 @@ title: Ensalada de judías verdes, tomate cherry y burrata
 portions: 2
 preparation: 10min
 cuisson: 10min
-tags: ensalada, vegetariano, queso, verano, adivinadas
+tags: ensalada, vegetariano, adivinadas
 lang: es
 ---
 

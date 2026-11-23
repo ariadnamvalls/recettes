@@ -1,6 +1,6 @@
 ---
 title: Tiella di carciofi
-tags: plato, vegetariano, queso, invierno, Nonna
+tags: vegetariano, Nonna
 lang: it
 ---
 

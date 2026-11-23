@@ -1,6 +1,6 @@
 ---
 title: Croquetas de camembert
-tags: snack, entrante, vegetariano, queso
+tags: entrante, vegetariano
 lang: es
 ---
 

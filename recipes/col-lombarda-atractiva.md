@@ -1,6 +1,6 @@
 ---
 title: Col lombarda atractiva
-tags: plato, vegano, invierno
+tags: vegano
 lang: es
 ---
 

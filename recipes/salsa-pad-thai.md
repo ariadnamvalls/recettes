@@ -1,6 +1,6 @@
 ---
 title: Salsa pad thai para noodles
-tags: salsa, vegano, rápido
+tags: salsa, vegano
 lang: es
 ---
 

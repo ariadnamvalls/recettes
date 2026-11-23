@@ -1,7 +1,7 @@
 ---
 title: Medallones de calabacín
 cuisson: 25min
-tags: entrante, vegetariano, queso, fácil
+tags: entrante, vegetariano
 lang: es
 ---
 

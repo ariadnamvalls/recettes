@@ -1,6 +1,6 @@
 ---
 title: Ensalada San Francisco
-tags: ensalada, vegetariano, queso, fácil, rápido
+tags: ensalada, vegetariano
 lang: es
 ---
 

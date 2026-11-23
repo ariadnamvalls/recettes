@@ -1,6 +1,6 @@
 ---
 title: Seitán con patatas
-tags: plato, vegano, fácil
+tags: vegano
 lang: es
 ---
 

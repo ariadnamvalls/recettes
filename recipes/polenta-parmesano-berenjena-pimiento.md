@@ -2,7 +2,7 @@
 title: Polenta con parmesano, berenjena y pimiento frito con albahaca
 portions: 2
 cuisson: 20min
-tags: plato, vegetariano, queso, sin-gluten, completadas
+tags: vegetariano, sin-gluten, completadas
 lang: es
 ---
 

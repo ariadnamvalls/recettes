@@ -1,6 +1,6 @@
 ---
 title: Seitán
-tags: base, vegano
+tags: vegano
 lang: es
 ---
 

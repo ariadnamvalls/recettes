@@ -2,7 +2,7 @@
 title: Encurtido de cebolla y tomates cherry
 portions: 1
 preparation: 15min
-tags: base, vegano, fácil, adivinadas
+tags: vegano, adivinadas
 lang: es
 ---
 

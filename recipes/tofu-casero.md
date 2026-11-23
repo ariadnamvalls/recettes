@@ -1,6 +1,6 @@
 ---
 title: Tofu
-tags: base, vegano, sin-gluten
+tags: vegano, sin-gluten
 lang: es
 ---
 

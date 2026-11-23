@@ -2,7 +2,7 @@
 title: Ensalada de rúcula, pimientos, tomate, burrata y arándanos
 portions: 2
 preparation: 10min
-tags: ensalada, entrante, vegetariano, queso, rápido, verano, completadas
+tags: ensalada, entrante, vegetariano, completadas
 lang: es
 ---
 

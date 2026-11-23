@@ -1,7 +1,7 @@
 ---
 title: Helado choco
 portions: 6
-tags: postre, vegano, fácil, verano
+tags: postre, vegano
 lang: es
 ---
 

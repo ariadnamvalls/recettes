@@ -1,6 +1,6 @@
 ---
 title: Sopa de puerro (o cebolla)
-tags: sopa, vegano, invierno
+tags: sopa, vegano
 lang: es
 ---
 

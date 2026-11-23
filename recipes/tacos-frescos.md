@@ -1,6 +1,6 @@
 ---
 title: Tacos frescos
-tags: plato, vegetariano, queso, rápido
+tags: vegetariano
 lang: es
 ---
 

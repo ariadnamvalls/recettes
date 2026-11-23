@@ -2,7 +2,7 @@
 title: Ensalada de hinojo, zanahoria, nueces y feta
 portions: 2
 preparation: 10min
-tags: ensalada, entrante, vegetariano, queso, rápido, completadas
+tags: ensalada, entrante, vegetariano, completadas
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Chai
-tags: bebida, vegano, invierno
+tags: bebida, vegano
 lang: es
 ---
 

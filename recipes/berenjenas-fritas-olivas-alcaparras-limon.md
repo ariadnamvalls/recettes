@@ -2,7 +2,7 @@
 title: Berenjenas fritas con olivas negras, alcaparras y limón
 portions: 2
 cuisson: 15min
-tags: entrante, vegano, fácil, sin-gluten, completadas
+tags: entrante, vegano, sin-gluten, completadas
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Calabaza "thai"
-tags: plato, vegano, completadas
+tags: vegano, completadas
 lang: es
 ---
 

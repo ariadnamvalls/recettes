@@ -3,7 +3,7 @@ title: Arroz con pimientos, garbanzos, pepinillos, pasas y pipas
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: plato, arroz, legumbres, ensalada, vegano, completadas
+tags: arroz, legumbres, ensalada, vegano, completadas
 lang: es
 ---
 

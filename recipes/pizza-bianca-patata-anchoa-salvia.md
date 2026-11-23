@@ -1,7 +1,7 @@
 ---
 title: Pizza bianca con patata, anchoa y salvia
 portions: 2
-tags: plato, pescado, queso, completadas
+tags: pescado, completadas
 lang: es
 ---
 

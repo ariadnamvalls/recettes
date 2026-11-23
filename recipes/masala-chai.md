@@ -2,7 +2,7 @@
 title: Masala chai
 portions: 2
 preparation: 10min
-tags: bebida, vegetariano, invierno
+tags: bebida, vegetariano
 lang: es
 ---
 

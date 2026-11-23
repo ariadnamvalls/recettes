@@ -1,6 +1,6 @@
 ---
 title: Ensaladas Bali (Rachel)
-tags: ensalada, vegetariano, queso
+tags: ensalada, vegetariano
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Fideuá vegetariana con setas
 portions: 4
 preparation: 15min
 cuisson: 25min
-tags: plato, pasta, vegano, completadas
+tags: pasta, vegano, completadas
 lang: es
 ---
 

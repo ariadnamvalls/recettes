@@ -2,7 +2,7 @@
 title: Rösti de patata y calabacín
 portions: 2
 cuisson: 20min
-tags: plato, vegano, sin-gluten, fácil, completadas
+tags: vegano, sin-gluten, completadas
 lang: es
 ---
 

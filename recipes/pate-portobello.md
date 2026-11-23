@@ -1,6 +1,6 @@
 ---
 title: Paté de portobello
-tags: entrante, vegano, base
+tags: entrante, vegano
 lang: es
 ---
 

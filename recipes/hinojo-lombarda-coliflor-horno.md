@@ -2,7 +2,7 @@
 title: Hinojo, col lombarda y coliflor al horno con peperoncino, ajo y perejil
 portions: 2
 cuisson: 30min
-tags: plato, vegano, sin-gluten, invierno, completadas
+tags: vegano, sin-gluten, completadas
 lang: es
 ---
 

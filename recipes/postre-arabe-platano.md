@@ -1,6 +1,6 @@
 ---
 title: Postre árabe de plátano
-tags: postre, vegano, fácil, rápido
+tags: postre, vegano
 lang: es
 ---
 

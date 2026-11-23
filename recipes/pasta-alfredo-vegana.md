@@ -1,7 +1,7 @@
 ---
 title: Pasta Alfredo (vegana)
 portions: 4
-tags: plato, pasta, vegano
+tags: pasta, vegano
 lang: es
 ---
 

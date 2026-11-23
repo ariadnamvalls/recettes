@@ -3,7 +3,7 @@ title: Berenjenas sobre base de pimientos con mozzarella
 portions: 2
 preparation: 10min
 cuisson: 35min
-tags: plato, vegetariano, queso, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

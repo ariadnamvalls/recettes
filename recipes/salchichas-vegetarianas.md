@@ -1,7 +1,7 @@
 ---
 title: Salchichas vegetarianas
 cuisson: 20min
-tags: plato, legumbres, vegetariano, queso
+tags: legumbres, vegetariano
 lang: es
 ---
 

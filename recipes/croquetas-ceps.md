@@ -1,6 +1,6 @@
 ---
 title: Croquetas de ceps
-tags: snack, entrante, vegetariano
+tags: entrante, vegetariano
 lang: es
 ---
 

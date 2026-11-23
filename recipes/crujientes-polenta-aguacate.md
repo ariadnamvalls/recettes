@@ -3,7 +3,7 @@ title: Crujientes de polenta con salsa de aguacate y yogur
 portions: 6
 preparation: 30min
 cuisson: 20min
-tags: entrante, snack, vegetariano, queso
+tags: entrante, vegetariano
 lang: es
 ---
 

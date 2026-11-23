@@ -1,7 +1,7 @@
 ---
 title: Gratin de calabaza, salvia y gruyère
 cuisson: 35min
-tags: plato, vegetariano, queso, invierno
+tags: vegetariano
 lang: es
 ---
 

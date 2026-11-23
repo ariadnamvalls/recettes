@@ -1,6 +1,6 @@
 ---
 title: Ñoquis de sémola
-tags: plato, vegetariano, queso, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

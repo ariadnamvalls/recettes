@@ -1,6 +1,6 @@
 ---
 title: Crema de almendras, dátiles y algarroba
-tags: base, snack, vegano, sin-gluten, postre, dip
+tags: vegano, sin-gluten, postre, dip
 lang: es
 ---
 

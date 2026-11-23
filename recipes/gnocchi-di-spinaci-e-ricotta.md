@@ -1,7 +1,7 @@
 ---
 title: Gnocchi di spinaci e ricotta
 portions: 3
-tags: plato, pasta, vegetariano, queso, completadas, Nonna
+tags: pasta, vegetariano, completadas, Nonna
 lang: it
 ---
 

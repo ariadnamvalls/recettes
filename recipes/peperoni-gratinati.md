@@ -1,6 +1,6 @@
 ---
 title: Peperoni (gialli) gratinati
-tags: entrante, vegetariano, queso, fácil, Nonna
+tags: entrante, vegetariano, Nonna
 lang: it
 ---
 

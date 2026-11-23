@@ -1,6 +1,6 @@
 ---
 title: Guisantes del Sur
-tags: plato, legumbres, vegano, fácil
+tags: legumbres, vegano
 lang: es
 ---
 

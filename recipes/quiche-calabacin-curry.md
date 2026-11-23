@@ -1,7 +1,7 @@
 ---
 title: Quiche Mamá. Calabacín al curry
 cuisson: 20min
-tags: plato, tarta, vegetariano, queso
+tags: tarta, vegetariano
 lang: es
 ---
 

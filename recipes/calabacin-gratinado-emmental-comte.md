@@ -2,7 +2,7 @@
 title: Calabacín gratinado con emmental y comté
 portions: 2
 cuisson: 20min
-tags: entrante, snack, vegetariano, queso, fácil, completadas
+tags: entrante, vegetariano, completadas
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Empanadas vegetarianas colombianas
-tags: plato, entrante, vegano, legumbres, sin-gluten
+tags: entrante, vegano, legumbres, sin-gluten
 lang: es
 ---
 

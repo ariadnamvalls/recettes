@@ -2,7 +2,7 @@
 title: Dhal
 portions: 2
 cuisson: 30min
-tags: plato, legumbres, vegano, sin-gluten
+tags: legumbres, vegano, sin-gluten
 lang: es
 ---
 

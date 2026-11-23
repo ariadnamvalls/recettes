@@ -2,7 +2,7 @@
 title: Dip de remolacha, feta y limón
 portions: 4
 preparation: 10min
-tags: entrante, vegetariano, queso, rápido, sin-gluten, completadas
+tags: entrante, vegetariano, sin-gluten, completadas
 lang: es
 ---
 

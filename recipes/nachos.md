@@ -3,7 +3,7 @@ title: Nachos
 portions: 2
 preparation: 15min
 cuisson: 5min
-tags: entrante, snack, vegetariano, queso, completadas
+tags: entrante, vegetariano, completadas
 lang: es
 ---
 

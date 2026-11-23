@@ -2,7 +2,7 @@
 title: Ensalada de endivias con roquefort, nueces pecan y pera
 portions: 2
 preparation: 10min
-tags: ensalada, entrante, vegetariano, queso, rápido, completadas
+tags: ensalada, entrante, vegetariano, completadas
 lang: es
 ---
 

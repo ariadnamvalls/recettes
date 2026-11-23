@@ -3,7 +3,7 @@ title: Tortitas con plátano, pecanas y chocolate
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: desayuno, vegetariano, fácil, adivinadas
+tags: desayuno, vegetariano, adivinadas
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Sopa de calabacín
 cuisson: 1h
-tags: sopa, vegano, fácil
+tags: sopa, vegano
 lang: es
 ---
 

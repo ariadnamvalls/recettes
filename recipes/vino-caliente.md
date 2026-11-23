@@ -1,6 +1,6 @@
 ---
 title: Vino caliente (Glühwein)
-tags: bebida, invierno
+tags: bebida
 lang: es
 ---
 

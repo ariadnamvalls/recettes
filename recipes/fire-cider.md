@@ -1,6 +1,6 @@
 ---
 title: Fire Cider (Immune Boost)
-tags: bebida, base, vegetariano, invierno, completadas
+tags: bebida, vegetariano, completadas
 lang: es
 ---
 

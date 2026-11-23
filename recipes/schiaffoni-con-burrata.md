@@ -1,6 +1,6 @@
 ---
 title: Schiaffoni con burrata
-tags: plato, pasta, vegetariano, queso
+tags: pasta, vegetariano
 lang: es
 ---
 

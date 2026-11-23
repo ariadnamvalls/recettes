@@ -1,6 +1,6 @@
 ---
 title: Salsa de cacahuetes para rollitos de papel de arroz
-tags: salsa, vegano, rápido
+tags: salsa, vegano
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Tostada con pimientos, olivas negras y queso morbier
 portions: 1
 preparation: 5min
 cuisson: 20min
-tags: entrante, vegetariano, queso, completadas
+tags: entrante, vegetariano, completadas
 lang: es
 ---
 

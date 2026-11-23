@@ -3,7 +3,7 @@ title: Galette de trigo sarraceno con espinacas, patata y queso
 portions: 2
 preparation: 15min
 cuisson: 25min
-tags: plato, vegetariano, queso, sin-gluten, adivinadas
+tags: vegetariano, sin-gluten, adivinadas
 lang: es
 ---
 

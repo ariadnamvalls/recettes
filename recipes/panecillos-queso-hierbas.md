@@ -3,7 +3,7 @@ title: Panecillos de queso con hierbas
 portions: 12
 preparation: 15min
 cuisson: 25min
-tags: pan, snack, vegetariano, queso, sin-gluten, adivinadas
+tags: pan, vegetariano, sin-gluten, adivinadas
 lang: es
 ---
 

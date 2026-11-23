@@ -3,7 +3,7 @@ title: Calabaza con gorgonzola y nueces al horno
 portions: 2
 preparation: 10min
 cuisson: 50min
-tags: plato, vegetariano, queso, invierno, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

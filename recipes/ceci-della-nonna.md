@@ -1,6 +1,6 @@
 ---
 title: Ceci della nonna
-tags: plato, legumbres, vegano, invierno, Nonna
+tags: legumbres, vegano, Nonna
 lang: it
 ---
 

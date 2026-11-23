@@ -2,7 +2,7 @@
 title: Plato ensalada marroquí de berenjena
 portions: 4
 cuisson: 1h
-tags: plato, vegano, ensalada
+tags: vegano, ensalada
 lang: es
 ---
 

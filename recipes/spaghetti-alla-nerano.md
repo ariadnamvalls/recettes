@@ -3,7 +3,7 @@ title: Spaghetti alla nerano
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: plato, pasta, vegetariano, queso, verano, completadas
+tags: pasta, vegetariano, completadas
 lang: es
 ---
 

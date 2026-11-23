@@ -3,7 +3,7 @@ title: Chalota, pimientos, boniato y tempeh a la sartén con picada de pistacho
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: plato, vegano, completadas
+tags: vegano, completadas
 lang: es
 ---
 

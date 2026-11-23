@@ -3,7 +3,7 @@ title: Verduras al horno con feta y romero
 portions: 2
 preparation: 10min
 cuisson: 40min
-tags: plato, vegetariano, queso, fácil, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

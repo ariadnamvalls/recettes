@@ -1,6 +1,6 @@
 ---
 title: Ensalada verano
-tags: ensalada, vegetariano, queso, verano, rápido
+tags: ensalada, vegetariano
 lang: es
 ---
 

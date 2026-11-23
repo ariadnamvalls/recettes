@@ -1,6 +1,6 @@
 ---
 title: Pan de ajo
-tags: pan, entrante, vegetariano, fácil
+tags: pan, entrante, vegetariano
 lang: es
 ---
 

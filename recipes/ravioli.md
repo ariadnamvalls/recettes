@@ -1,6 +1,6 @@
 ---
 title: Ravioli
-tags: plato, pasta, vegetariano
+tags: pasta, vegetariano
 lang: es
 ---
 

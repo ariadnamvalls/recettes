@@ -1,6 +1,6 @@
 ---
 title: Sobrasada vegana
-tags: entrante, vegetariano, fácil
+tags: entrante, vegetariano
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ensalada isleña
-tags: ensalada, plato, vegano
+tags: ensalada, vegano
 lang: es
 ---
 

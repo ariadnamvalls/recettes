@@ -2,7 +2,7 @@
 title: Alcachofas al horno
 portions: 2
 cuisson: 40min
-tags: entrante, vegano, fácil, adivinadas
+tags: entrante, vegano, adivinadas
 lang: es
 ---
 

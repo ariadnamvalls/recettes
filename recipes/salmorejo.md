@@ -1,6 +1,6 @@
 ---
 title: Salmorejo
-tags: sopa, entrante, vegano, verano
+tags: sopa, entrante, vegano
 lang: es
 ---
 

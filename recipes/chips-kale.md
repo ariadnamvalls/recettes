@@ -3,7 +3,7 @@ title: Chips de kale
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: snack, vegano, fácil, sin-gluten, completadas
+tags: vegano, sin-gluten, completadas
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Polenta italiana
 portions: 3
-tags: plato, vegetariano, queso
+tags: vegetariano
 lang: es
 ---
 

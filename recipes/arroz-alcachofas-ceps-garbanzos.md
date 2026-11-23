@@ -2,7 +2,7 @@
 title: Arroz de alcachofas, ceps, pimiento, berenjena y garbanzos
 preparation: 30min
 cuisson: 14min
-tags: plato, arroz, vegano, completadas
+tags: arroz, vegano, completadas
 lang: es
 ---
 

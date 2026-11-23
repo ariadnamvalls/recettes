@@ -1,7 +1,7 @@
 ---
 title: Dip de boniato, miso blanco y jengibre
 preparation: 30min
-tags: entrante, vegano, base
+tags: entrante, vegano
 lang: es
 ---
 

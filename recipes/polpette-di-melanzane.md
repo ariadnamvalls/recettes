@@ -1,6 +1,6 @@
 ---
 title: Polpette di melanzane
-tags: entrante, snack, vegetariano, queso, Nonna
+tags: entrante, vegetariano, Nonna
 lang: it
 ---
 

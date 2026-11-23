@@ -3,7 +3,7 @@ title: Cake de espelta, espinacas y gruyère
 portions: 6
 preparation: 15min
 cuisson: 45min
-tags: plato, pan, vegetariano, queso, completadas
+tags: pan, vegetariano, completadas
 lang: es
 ---
 

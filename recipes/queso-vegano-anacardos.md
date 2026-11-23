@@ -1,6 +1,6 @@
 ---
 title: Queso vegano de anacardos
-tags: base, vegano, sin-gluten
+tags: vegano, sin-gluten
 lang: es
 ---
 

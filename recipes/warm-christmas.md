@@ -1,6 +1,6 @@
 ---
 title: Warm Christmas
-tags: bebida, vegano, invierno
+tags: bebida, vegano
 lang: es
 ---
 

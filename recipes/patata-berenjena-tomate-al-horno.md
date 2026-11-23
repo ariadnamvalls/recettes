@@ -3,7 +3,7 @@ title: Patata, berenjena y tomate al horno
 portions: 2
 preparation: 15min
 cuisson: 45min
-tags: plato, vegano, fácil, completadas
+tags: vegano, completadas
 lang: es
 ---
 

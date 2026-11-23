@@ -3,7 +3,7 @@ title: Alubias blancas con tomate
 portions: 2
 preparation: 10min
 cuisson: 20min
-tags: plato, legumbres, vegano, fácil, adivinadas
+tags: legumbres, vegano, adivinadas
 lang: es
 ---
 

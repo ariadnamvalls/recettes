@@ -3,7 +3,7 @@ title: Sopa de cebolla gratinada
 portions: 6
 preparation: 15min
 cuisson: 20min
-tags: plato, sopa, vegetariano, queso, invierno
+tags: sopa, vegetariano
 lang: es
 ---
 

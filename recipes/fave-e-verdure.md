@@ -1,6 +1,6 @@
 ---
 title: Fave e verdure
-tags: plato, legumbres, vegano
+tags: legumbres, vegano
 lang: es
 ---
 

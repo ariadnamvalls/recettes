@@ -3,7 +3,7 @@ title: Cheesecake de berenjena y feta
 portions: 4
 preparation: 15min
 cuisson: 1h20
-tags: plato, vegetariano, queso
+tags: vegetariano
 lang: es
 ---
 

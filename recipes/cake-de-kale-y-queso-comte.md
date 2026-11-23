@@ -3,7 +3,7 @@ title: Cake de kale y queso comté
 portions: 1 cake
 preparation: 15min
 cuisson: 35-40min
-tags: salado, cake, kale, vegetariano
+tags: cake, vegetariano
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pan para gyros (Grecia)
 portions: 6
-tags: pan, plato, vegetariano, queso
+tags: pan, vegetariano
 lang: es
 ---
 

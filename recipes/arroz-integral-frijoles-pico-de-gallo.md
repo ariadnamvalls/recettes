@@ -3,7 +3,7 @@ title: Arroz integral con frijoles y pico de gallo
 portions: 2
 preparation: 10min
 cuisson: 40min
-tags: plato, vegano, legumbres, arroz, fácil, adivinadas
+tags: vegano, legumbres, arroz, adivinadas
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Garbanzos a la Goa (by Juanito)
 cuisson: 20min
-tags: plato, legumbres, vegano
+tags: legumbres, vegano
 lang: es
 ---
 

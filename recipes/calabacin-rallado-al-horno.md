@@ -1,7 +1,7 @@
 ---
 title: Calabacín rallado al horno con parmesano y huevo
 cuisson: 30min
-tags: entrante, vegetariano, queso, sin-gluten
+tags: entrante, vegetariano, sin-gluten
 lang: es
 ---
 

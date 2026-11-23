@@ -3,7 +3,7 @@ title: Albóndigas veganas de quinoa, champiñones y tomates secos
 portions: 15 albóndigas
 preparation: 20min
 cuisson: 25min
-tags: salado, albóndigas, quinoa, vegano
+tags: vegano
 lang: es
 ---
 

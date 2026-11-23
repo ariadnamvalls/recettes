@@ -1,6 +1,6 @@
 ---
 title: Croquetas rápidas (a la "pobre")
-tags: snack, vegetariano, fácil, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

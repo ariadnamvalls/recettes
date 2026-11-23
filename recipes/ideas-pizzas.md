@@ -1,6 +1,6 @@
 ---
 title: Ideas pizzas
-tags: plato, vegetariano
+tags: vegetariano
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cus-cus marroquí
-tags: plato, vegano
+tags: vegano
 lang: es
 ---
 

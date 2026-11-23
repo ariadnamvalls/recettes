@@ -3,7 +3,7 @@ title: Arroz con alubias, boniato morado y pimientos asados
 portions: 2
 preparation: 10min
 cuisson: 50min
-tags: plato, vegano, legumbres, arroz, adivinadas
+tags: vegano, legumbres, arroz, adivinadas
 lang: es
 ---
 

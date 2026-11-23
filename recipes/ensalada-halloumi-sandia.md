@@ -2,7 +2,7 @@
 title: Ensalada de halloumi, sandía, tomate y kalamata
 portions: 4
 preparation: 15min
-tags: ensalada, vegetariano, queso, verano, rápido, completadas
+tags: ensalada, vegetariano, completadas
 lang: es
 ---
 

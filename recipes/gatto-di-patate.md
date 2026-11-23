@@ -1,6 +1,6 @@
 ---
 title: “Pizza” di patate (Gattò di patate)
-tags: plato, vegetariano, queso, Nonna
+tags: vegetariano, Nonna
 lang: it
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Leche de coco
-tags: bebida, base, vegano
+tags: bebida, vegano
 lang: es
 ---
 

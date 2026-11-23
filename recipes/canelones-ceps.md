@@ -1,6 +1,6 @@
 ---
 title: Canelones de ceps
-tags: plato, pasta, vegetariano, queso
+tags: pasta, vegetariano
 lang: es
 ---
 

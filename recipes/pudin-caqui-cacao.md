@@ -2,7 +2,7 @@
 title: Pudin de caqui y cacao
 portions: 2
 preparation: 10min
-tags: postre, vegano, fácil, rápido, completadas
+tags: postre, vegano, completadas
 lang: es
 ---
 

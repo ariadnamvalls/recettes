@@ -2,7 +2,7 @@
 title: Verduras de otoño al horno
 portions: 2
 cuisson: 60min
-tags: plato, vegetariano, queso, sin-gluten, invierno
+tags: vegetariano, sin-gluten
 lang: es
 ---
 

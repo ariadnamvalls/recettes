@@ -1,7 +1,7 @@
 ---
 title: Parmigiana
 cuisson: 20min
-tags: plato, vegetariano, queso, Nonna
+tags: vegetariano, Nonna
 lang: it
 ---
 

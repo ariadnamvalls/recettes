@@ -3,7 +3,7 @@ title: Salteado de puerro, tofu, espárragos y acelga
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: plato, vegano, rápido, completadas
+tags: vegano, completadas
 lang: es
 ---
 

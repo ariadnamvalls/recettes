@@ -1,6 +1,6 @@
 ---
 title: Chiacchiere di Carnevale
-tags: postre, galletas, completadas, Nonna
+tags: postre, completadas, Nonna
 lang: it
 ---
 

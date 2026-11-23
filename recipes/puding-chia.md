@@ -2,7 +2,7 @@
 title: Puding de chía
 portions: 2
 preparation: 10min
-tags: postre, desayuno, sin-gluten, duda
+tags: postre, desayuno, sin-gluten
 lang: es
 ---
 

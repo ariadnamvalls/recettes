@@ -3,7 +3,7 @@ title: Pan de remolacha, alcaravea y queso de cabra
 portions: 10
 preparation: 20min
 cuisson: 1h20
-tags: pan, vegetariano, queso
+tags: pan, vegetariano
 lang: es
 ---
 

@@ -2,7 +2,7 @@
 title: Focaccia
 preparation: 30min
 cuisson: 15min
-tags: pan, vegano, base, Nonna
+tags: pan, vegano, Nonna
 lang: it
 ---
 

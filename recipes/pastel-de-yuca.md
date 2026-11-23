@@ -1,7 +1,7 @@
 ---
 title: Pastel de yuca
 portions: 8
-tags: plato, entrante, vegetariano, arroz
+tags: entrante, vegetariano, arroz
 lang: es
 ---
 

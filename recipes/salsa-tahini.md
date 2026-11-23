@@ -1,6 +1,6 @@
 ---
 title: Salsa tahini
-tags: salsa, vegano, rápido, fácil
+tags: salsa, vegano
 lang: es
 ---
 

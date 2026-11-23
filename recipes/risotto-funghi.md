@@ -1,6 +1,6 @@
 ---
 title: Risotto funghi
-tags: plato, arroz, vegetariano, queso
+tags: arroz, vegetariano
 lang: es
 ---
 

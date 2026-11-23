@@ -1,6 +1,6 @@
 ---
 title: Pasta con sugo alla pizzaiola
-tags: plato, pasta, salsa, vegano, fácil, Nonna
+tags: pasta, salsa, vegano, Nonna
 lang: it
 ---
 

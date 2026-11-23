@@ -3,7 +3,7 @@ title: Minestrone
 portions: 4
 preparation: 15min
 cuisson: 30min
-tags: plato, sopa, vegetariano, queso, invierno, adivinadas
+tags: sopa, vegetariano, adivinadas
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Falso risotto de boniato con idiazabal y parmesano
 portions: 2
 preparation: 15min
 cuisson: 20min
-tags: plato, vegetariano, queso, sin-gluten, completadas
+tags: vegetariano, sin-gluten, completadas
 lang: es
 ---
 

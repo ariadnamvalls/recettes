@@ -3,7 +3,7 @@ title: Tostada de berenjena, cebolla caramelizada y emmental
 portions: 2
 preparation: 10min
 cuisson: 30min
-tags: plato, pan, vegetariano, queso, completadas
+tags: pan, vegetariano, completadas
 lang: es
 ---
 

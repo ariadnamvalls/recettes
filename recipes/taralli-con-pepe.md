@@ -1,6 +1,6 @@
 ---
 title: Taralli con pepe
-tags: snack, pan, vegano, Nonna
+tags: pan, vegano, Nonna
 lang: it
 ---
 

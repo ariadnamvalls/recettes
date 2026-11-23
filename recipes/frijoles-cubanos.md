@@ -1,7 +1,7 @@
 ---
 title: Frijoles cubanos
 cuisson: 1h
-tags: plato, legumbres, vegano, sin-gluten
+tags: legumbres, vegano, sin-gluten
 lang: es
 ---
 

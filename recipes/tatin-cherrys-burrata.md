@@ -3,7 +3,7 @@ title: Tarta tatin de tomates cherrys y burrata
 portions: 4
 preparation: 15min
 cuisson: 30min
-tags: plato, tarta, vegetariano, queso, verano, completadas
+tags: tarta, vegetariano, completadas
 lang: es
 ---
 

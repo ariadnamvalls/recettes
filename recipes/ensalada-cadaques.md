@@ -1,6 +1,6 @@
 ---
 title: Ensalada Cadaqués
-tags: ensalada, vegetariano, queso, fácil, verano
+tags: ensalada, vegetariano
 lang: es
 ---
 

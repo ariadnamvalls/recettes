@@ -3,7 +3,7 @@ title: Tortitas de quinoa
 portions: 2
 preparation: 15min
 cuisson: 25min
-tags: plato, vegetariano, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

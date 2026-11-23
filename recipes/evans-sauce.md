@@ -1,6 +1,6 @@
 ---
 title: Evan's sauce
-tags: salsa, vegano, rápido
+tags: salsa, vegano
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tortilla de patata Abuela
-tags: plato, vegetariano, sin-gluten
+tags: vegetariano, sin-gluten
 lang: es
 ---
 

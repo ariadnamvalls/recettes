@@ -3,7 +3,7 @@ title: Ensalada de arroz integral y frijoles con yuca frita
 portions: 2
 preparation: 15min
 cuisson: 40min
-tags: plato, vegano, arroz, legumbres, adivinadas
+tags: vegano, arroz, legumbres, adivinadas
 lang: es
 ---
 

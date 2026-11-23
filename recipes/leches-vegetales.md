@@ -1,6 +1,6 @@
 ---
 title: Leches vegetales
-tags: bebida, base, vegano
+tags: bebida, vegano
 lang: es
 ---
 

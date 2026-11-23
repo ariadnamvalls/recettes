@@ -3,7 +3,7 @@ title: Alubias, espinaca y ricota
 portions: 4
 preparation: 5min
 cuisson: 15min
-tags: salado, legumbres, alubias, vegetariano
+tags: legumbres, vegetariano
 lang: es
 ---
 

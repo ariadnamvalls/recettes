@@ -1,6 +1,6 @@
 ---
 title: Peperonata
-tags: plato, vegano, verano, Nonna
+tags: vegano, Nonna
 lang: it
 ---
 

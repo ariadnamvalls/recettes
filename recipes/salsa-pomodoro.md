@@ -1,6 +1,6 @@
 ---
 title: Salsa di pomodoro (conserva)
-tags: salsa, base, vegano, verano, Nonna
+tags: salsa, vegano, Nonna
 lang: it
 ---
 

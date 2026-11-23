@@ -1,6 +1,6 @@
 ---
 title: Pasta con berenjena al curry
-tags: plato, pasta, vegano
+tags: pasta, vegano
 lang: es
 ---
 

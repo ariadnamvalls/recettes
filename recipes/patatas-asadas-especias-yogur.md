@@ -2,7 +2,7 @@
 title: Patatas asadas con especias y yogur
 portions: 2
 cuisson: 50min
-tags: plato, entrante, vegetariano, sin-gluten
+tags: entrante, vegetariano, sin-gluten
 lang: es
 ---
 

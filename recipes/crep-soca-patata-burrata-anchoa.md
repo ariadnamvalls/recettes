@@ -3,7 +3,7 @@ title: Crep soca con patata al horno, burrata y anchoas
 portions: 2
 preparation: 10min
 cuisson: 40min
-tags: plato, pescado, queso, sin-gluten, completadas
+tags: pescado, sin-gluten, completadas
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Polenta fries
 cuisson: 35min
-tags: entrante, snack, vegetariano, queso, sin-gluten
+tags: entrante, vegetariano, sin-gluten
 lang: es
 ---
 

@@ -2,7 +2,7 @@
 title: Lenguado con arroz (salsa beurre blanc o crema vegana con limón y albahaca)
 portions: 2
 cuisson: 20min
-tags: plato, pescado, arroz, completadas
+tags: pescado, arroz, completadas
 lang: es
 ---
 

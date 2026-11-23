@@ -1,7 +1,7 @@
 ---
 title: Papilla de avena
 portions: 1
-tags: desayuno, vegano, invierno, fácil
+tags: desayuno, vegano
 lang: es
 ---
 

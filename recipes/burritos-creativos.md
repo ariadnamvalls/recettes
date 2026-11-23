@@ -1,7 +1,7 @@
 ---
 title: Burritos creativos
 portions: 1
-tags: plato, vegetariano, queso, arroz, legumbres
+tags: vegetariano, arroz, legumbres
 lang: es
 ---
 

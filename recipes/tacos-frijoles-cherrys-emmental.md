@@ -2,7 +2,7 @@
 title: Tacos de frijoles, cherrys, emmental y cilantro
 portions: 2
 preparation: 15min
-tags: plato, legumbres, vegetariano, queso, rápido, completadas
+tags: legumbres, vegetariano, completadas
 lang: es
 ---
 

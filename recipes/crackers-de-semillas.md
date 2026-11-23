@@ -1,6 +1,6 @@
 ---
 title: Crackers de semillas
-tags: snack, pan, vegano, sin-gluten
+tags: pan, vegano, sin-gluten
 lang: es
 ---
 

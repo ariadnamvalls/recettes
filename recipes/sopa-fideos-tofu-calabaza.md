@@ -3,7 +3,7 @@ title: Sopa de fideos con tofu y calabaza
 portions: 2
 preparation: 10min
 cuisson: 20min
-tags: plato, sopa, vegano, invierno, adivinadas
+tags: sopa, vegano, adivinadas
 lang: es
 ---
 

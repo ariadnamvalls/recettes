@@ -1,6 +1,6 @@
 ---
 title: Verduras al estilo chino
-tags: plato, vegano, rápido
+tags: vegano
 lang: es
 ---
 

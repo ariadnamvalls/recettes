@@ -1,7 +1,7 @@
 ---
 title: Hamburguesas de lentejas
 portions: 11
-tags: plato, legumbres, vegano
+tags: legumbres, vegano
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Clafoutis salado de tomates cherry
 portions: 6
 preparation: 15min
 cuisson: 35min
-tags: plato, vegetariano, queso, fácil, verano, adivinadas
+tags: vegetariano, adivinadas
 lang: es
 ---
 

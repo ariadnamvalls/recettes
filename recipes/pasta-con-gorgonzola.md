@@ -1,6 +1,6 @@
 ---
 title: Pasta con gorgonzola
-tags: plato, pasta, vegetariano, queso, rápido
+tags: pasta, vegetariano
 lang: es
 ---
 

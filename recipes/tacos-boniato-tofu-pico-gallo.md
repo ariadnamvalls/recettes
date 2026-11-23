@@ -3,7 +3,7 @@ title: Tacos de boniato al horno, tofu, pico de gallo y granada
 portions: 2
 preparation: 15min
 cuisson: 30min
-tags: plato, vegano, completadas
+tags: vegano, completadas
 lang: es
 ---
 

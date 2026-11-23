@@ -3,7 +3,7 @@ title: Tian de verduras
 portions: 4
 preparation: 15min
 cuisson: 50min
-tags: plato, vegano, fácil, verano, adivinadas
+tags: vegano, adivinadas
 lang: es
 ---
 

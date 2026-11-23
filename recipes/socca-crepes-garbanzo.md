@@ -3,7 +3,7 @@ title: Creps socca de garbanzo
 portions: 2
 preparation: 5min
 cuisson: 15min
-tags: pan, vegano, sin-gluten, fácil, completadas
+tags: pan, vegano, sin-gluten, completadas
 lang: es
 ---
 

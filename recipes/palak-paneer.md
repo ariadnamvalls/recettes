@@ -1,7 +1,7 @@
 ---
 title: Palak paneer
 portions: 2
-tags: plato, vegano, sin-gluten, completadas, duda
+tags: vegano, sin-gluten, completadas
 lang: es
 ---
 

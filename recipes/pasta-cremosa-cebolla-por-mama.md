@@ -1,6 +1,6 @@
 ---
 title: Pasta cremosa de cebolla por mamá
-tags: plato, pasta, vegetariano, queso
+tags: pasta, vegetariano
 lang: es
 ---
 

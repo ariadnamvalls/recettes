@@ -2,7 +2,7 @@
 title: Bol de cereales con fresas y frutos secos
 portions: 2
 preparation: 5min
-tags: desayuno, vegano, rápido, fácil, adivinadas
+tags: desayuno, vegano, adivinadas
 lang: es
 ---
 

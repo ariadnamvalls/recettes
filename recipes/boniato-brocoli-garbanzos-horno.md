@@ -2,7 +2,7 @@
 title: Boniato, brócoli y garbanzos al horno con perejil y eneldo (de Cloé)
 portions: 2
 cuisson: 30min
-tags: plato, legumbres, vegano, completadas
+tags: legumbres, vegano, completadas
 lang: es
 ---
 

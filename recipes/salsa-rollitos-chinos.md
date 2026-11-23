@@ -1,6 +1,6 @@
 ---
 title: Salsa para rollitos chinos
-tags: salsa, vegano, rápido, fácil
+tags: salsa, vegano
 lang: es
 ---
 

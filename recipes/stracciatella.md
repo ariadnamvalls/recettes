@@ -3,7 +3,7 @@ title: Stracciatella (sopa de caldo con huevo y parmesano)
 portions: 2
 preparation: 5min
 cuisson: 10min
-tags: plato, sopa, queso, rápido, invierno, adivinadas
+tags: sopa, adivinadas
 lang: es
 ---
 

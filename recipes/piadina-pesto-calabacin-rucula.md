@@ -3,7 +3,7 @@ title: Piadina con pesto, tomate, calabacín, rúcula y quesos
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: plato, vegetariano, queso, rápido, completadas
+tags: vegetariano, completadas
 lang: es
 ---
 

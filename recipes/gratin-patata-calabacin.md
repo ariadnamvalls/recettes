@@ -3,7 +3,7 @@ title: Gratén de patata y calabacín
 portions: 4
 preparation: 20min
 cuisson: 50min
-tags: plato, vegetariano, queso, invierno, adivinadas
+tags: vegetariano, adivinadas
 lang: es
 ---
 

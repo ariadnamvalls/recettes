@@ -1,6 +1,6 @@
 ---
 title: Pasta con brócoli
-tags: plato, pasta, vegano, rápido, fácil
+tags: pasta, vegano
 lang: es
 ---
 

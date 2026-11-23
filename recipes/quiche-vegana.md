@@ -1,7 +1,7 @@
 ---
 title: Quiche vegana
 cuisson: 30min
-tags: plato, tarta, vegano
+tags: tarta, vegano
 lang: es
 ---
 

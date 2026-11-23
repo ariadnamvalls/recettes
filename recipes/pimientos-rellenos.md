@@ -1,6 +1,6 @@
 ---
 title: Pimientos rellenos
-tags: plato, vegetariano, queso, arroz
+tags: vegetariano, arroz
 lang: es
 ---
 

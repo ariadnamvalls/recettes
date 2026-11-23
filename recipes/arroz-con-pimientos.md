@@ -1,6 +1,6 @@
 ---
 title: Arroz con pimientos
-tags: plato, arroz, vegano, sin-gluten
+tags: arroz, vegano, sin-gluten
 lang: es
 ---
 
