@@ -1,5 +1,5 @@
 ---
-title: Pumkey - Abuela
+title: Plumcake de la Abuela
 cuisson: 30min
 tags: postre, bizcocho
 lang: es

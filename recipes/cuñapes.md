@@ -3,7 +3,7 @@ title: Cuñapes
 portions: 12
 preparation: 15min
 cuisson: 30min
-tags: snack, pan, sin-gluten
+tags: pan, sin-gluten
 lang: fr
 ---
 
