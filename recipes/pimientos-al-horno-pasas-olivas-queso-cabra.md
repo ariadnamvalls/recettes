@@ -3,7 +3,7 @@ title: Pimientos al horno con pasas, olivas negras, queso de cabra y rúcula
 portions: 2
 preparation: 10min
 cuisson: 40min
-tags: entrante, vegetariano, completadas
+tags: entrante, vegetariano, mama
 lang: es
 ---
 
