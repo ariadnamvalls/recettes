@@ -2,7 +2,7 @@
 title: Sándwich de mostaza, paté de pepinillo, tofu, cebolla encurtida, berenjena y comté
 portions: 1
 preparation: 15min
-tags: vegetariano, completadas
+tags: sandwich
 lang: es
 ---
 
