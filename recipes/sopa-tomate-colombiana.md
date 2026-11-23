@@ -1,6 +1,6 @@
 ---
 title: Sopa de tomate colombiana
-tags: plato, sopa, vegetariano, queso, duda
+tags: plato, sopa, vegetariano, queso,
 lang: es
 ---
 
