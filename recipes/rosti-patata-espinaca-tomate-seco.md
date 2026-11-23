@@ -2,7 +2,7 @@
 title: Rösti de patata, espinaca, tomate seco y parmesano
 portions: 2
 cuisson: 20min
-tags: vegetariano, sin-gluten, completadas
+tags: vegetariano, sin-gluten, street-food
 lang: es
 ---
 
