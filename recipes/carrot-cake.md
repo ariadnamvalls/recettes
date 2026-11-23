@@ -1,7 +1,7 @@
 ---
 title: Carrot cake
 cuisson: 1h
-tags: postre, tarta, bizcocho, vegetariano
+tags: postre, bizcocho, vegetariano
 lang: es
 ---
 
