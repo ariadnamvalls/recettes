@@ -2,7 +2,7 @@
 title: Milhojas de berenjena con tomate y parmesano crujiente
 portions: 2
 cuisson: 25min
-tags: entrante, vegetariano, adivinadas
+tags: entrante, vegetariano, street-food
 lang: es
 ---
 
