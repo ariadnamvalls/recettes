@@ -2,7 +2,7 @@
 title: Hummus de lenteja con brotes, cebolla encurtida, chile en aceite y avellanas
 portions: 2
 preparation: 15min
-tags: entrante, legumbres, vegano, completadas
+tags: entrante, legumbres, vegano, dip
 lang: es
 ---
 
