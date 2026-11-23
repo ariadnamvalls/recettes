@@ -3,7 +3,7 @@ title: Crep soca de trigo sarraceno
 portions: 2
 preparation: 5min
 cuisson: 10min
-tags: vegano, sin-gluten, completadas
+tags: vegano, sin-gluten, completadas, street-food
 lang: es
 ---
 

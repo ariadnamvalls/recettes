@@ -2,7 +2,7 @@
 title: Galettes de trigo saraceno
 preparation: 3min
 portions: 8
-tags: sin-gluten
+tags: sin-gluten, street-food
 lang: fr
 ---
 

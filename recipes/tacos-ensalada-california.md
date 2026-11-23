@@ -1,6 +1,6 @@
 ---
 title: “Tacos” de ensalada de California
-tags: entrante, ensalada, vegano
+tags: entrante, ensalada, vegano, street-food
 lang: es
 ---
 

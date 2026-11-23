@@ -1,6 +1,6 @@
 ---
 title: Tacos frescos
-tags: vegetariano
+tags: vegetariano, street-food
 lang: es
 ---
 
