@@ -1,5 +1,5 @@
 ---
-title: Pâte à galettes de sarrasin
+title: Galettes de trigo saraceno
 preparation: 3min
 portions: 8
 tags: base, gluten-free
