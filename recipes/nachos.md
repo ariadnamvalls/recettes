@@ -21,7 +21,7 @@ lang: es
 
 ## Paso 3
 
-Poner {{ 150g de totopos }} en una fuente con {{ 100g de queso rallado }} por encima y *gratinar* 5min a **200ºC**.
+Poner {{ 150g de totopos }} en una fuente con {{ queso rallado mozarella y chedar }} por encima y *gratinar* 5min a **200ºC**.
 
 ## Paso 4
 
