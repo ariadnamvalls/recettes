@@ -3,7 +3,7 @@ title: Pastel de avellanas y chocolate (moelleux noisette)
 portions: 8
 preparation: 15min
 cuisson: 45min
-tags: postre, bizcocho, vegetariano, sin-gluten
+tags: postre, bizcocho, sin-gluten
 lang: es
 ---
 

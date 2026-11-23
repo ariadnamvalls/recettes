@@ -1,7 +1,7 @@
 ---
 title: Tarte à l'orange
 cuisson: 30min
-tags: postre, vegetariano
+tags: postre
 lang: es
 ---
 

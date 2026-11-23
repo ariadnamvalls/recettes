@@ -1,7 +1,7 @@
 ---
 title: Super brownie
 cuisson: 25min
-tags: postre, legumbres, vegetariano, sin-gluten
+tags: postre, legumbres, sin-gluten
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sannacchiudere
-tags: postre, galletas, vegetariano, invierno, Nonna
+tags: postre, galletas, invierno, Nonna
 lang: it
 ---
 

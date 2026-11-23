@@ -1,7 +1,7 @@
 ---
 title: Chocolate cake (con masa madre)
 cuisson: 40min
-tags: postre, bizcocho, vegetariano
+tags: postre, bizcocho
 lang: es
 ---
 

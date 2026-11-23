@@ -3,7 +3,7 @@ title: Flor de acacia frita
 portions: 4
 preparation: 10min
 cuisson: 10min
-tags: postre, snack, vegetariano, completadas
+tags: postre, snack, completadas
 lang: es
 ---
 

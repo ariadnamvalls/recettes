@@ -1,7 +1,7 @@
 ---
 title: Pastel de chocolate de la abuela
 cuisson: 30min
-tags: postre, bizcocho, vegetariano
+tags: postre, bizcocho
 lang: es
 ---
 

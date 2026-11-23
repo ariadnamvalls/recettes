@@ -1,7 +1,7 @@
 ---
 title: Tarta Tatin de manzana
 cuisson: 30min
-tags: postre, vegetariano
+tags: postre
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pumkey - Abuela
 cuisson: 30min
-tags: postre, bizcocho, vegetariano, fácil
+tags: postre, bizcocho, fácil
 lang: es
 ---
 

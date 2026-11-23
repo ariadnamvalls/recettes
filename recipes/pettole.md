@@ -1,6 +1,6 @@
 ---
 title: Pettole
-tags: postre, vegetariano, invierno, completadas, Nonna
+tags: postre, invierno, completadas, Nonna
 lang: it
 ---
 

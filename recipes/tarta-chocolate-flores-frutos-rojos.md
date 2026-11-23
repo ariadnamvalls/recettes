@@ -3,7 +3,7 @@ title: Tarta de chocolate con flores y frutos rojos
 portions: 10
 preparation: 30min
 cuisson: 40min
-tags: postre, tarta, vegetariano, adivinadas
+tags: postre, tarta, adivinadas
 lang: es
 ---
 

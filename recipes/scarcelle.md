@@ -3,7 +3,7 @@ title: Scarcelle
 portions: 4
 preparation: 30min
 cuisson: 25min
-tags: postre, desayuno, vegetariano, completadas, adivinadas, Nonna
+tags: postre, desayuno, completadas, adivinadas, Nonna
 lang: it
 ---
 
