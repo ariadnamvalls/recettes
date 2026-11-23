@@ -3,7 +3,7 @@ title: Crepes de harina de mijo y arroz
 portions: 2
 preparation: 5min
 cuisson: 15min
-tags: desayuno, sin-gluten, vegetariano, completadas
+tags: desayuno, sin-gluten, vegetariano, completadas, street-food
 lang: es
 ---
 

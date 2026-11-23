@@ -1,7 +1,7 @@
 ---
 title: Wrap de calabacín, garbanzos y feta con yogur a las hierbas
 portions: 2
-tags: vegetariano, legumbres, adivinadas
+tags: vegetariano, legumbres, adivinadas, street-food
 lang: es
 ---
 
