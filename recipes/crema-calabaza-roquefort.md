@@ -3,7 +3,7 @@ title: Crema de calabaza y roquefort
 portions: 4
 preparation: 10min
 cuisson: 25min
-tags: sopa, entrante, vegetariano, queso, invierno, completadas
+tags: sopa, vegetariano, invierno, completadas
 lang: es
 ---
 
@@ -17,7 +17,7 @@ lang: es
 
 ## Paso 2
 
-Añadir {{ 800g de calabaza }} en dados, cubrir con {{ 750ml de caldo de verduras }} y *cocer* 20min.
+Añadir {{ 800g de calabaza }} en dados, cubrir con agua, poner {{ 1 crdita de caldo de verduras }} y *cocer* 20min.
 
 ## Paso 3
 
