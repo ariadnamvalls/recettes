@@ -3,7 +3,7 @@ title: Pasta con espinacas al curry, crema de soja y parmesano
 portions: 2
 preparation: 5min
 cuisson: 15min
-tags: pasta, vegetariano, completadas
+tags: pasta, vegetariano, mama
 lang: es
 ---
 
