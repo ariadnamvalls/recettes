@@ -1,6 +1,6 @@
 ---
 title: Hamburguesa de calabaza
-tags: vegano, arroz, completadas
+tags: vegano, arroz, proteina
 lang: es
 ---
 
