@@ -3,7 +3,7 @@ title: Frittata de patata, calabacín y zanahoria con harina de garbanzo y queso
 portions: 4
 preparation: 15min
 cuisson: 35min
-tags: vegetariano, sin-gluten, completadas
+tags: vegetariano, sin-gluten, street-food
 lang: es
 ---
 
