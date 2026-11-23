@@ -1,7 +1,7 @@
 ---
 title: Rollitos de pak choi con crema de boniato
 portions: 2
-tags: entrante, vegano, duda
+tags: entrante, vegano,
 lang: es
 ---
 
