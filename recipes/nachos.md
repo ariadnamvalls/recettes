@@ -3,7 +3,7 @@ title: Nachos
 portions: 2
 preparation: 15min
 cuisson: 5min
-tags: entrante, vegetariano, completadas
+tags: street-food
 lang: es
 ---
 
