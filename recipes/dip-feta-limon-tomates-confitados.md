@@ -3,7 +3,7 @@ title: Dip de queso feta con limón y tomates confitados
 portions: 4
 preparation: 10min
 cuisson: 30min
-tags: entrante, vegetariano, completadas
+tags: entrante, vegetariano, dip
 lang: es
 ---
 
