@@ -4,7 +4,7 @@ portions: 10
 preparation: 15min
 cuisson: 1h
 repos: plusieurs jours
-tags: dessert, gâteau, hiver
+tags: postre, pan
 lang: fr
 ---
 
