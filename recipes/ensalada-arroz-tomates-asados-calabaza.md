@@ -3,7 +3,7 @@ title: Ensalada de arroz con tomates cherry asados y calabaza
 portions: 2
 preparation: 15min
 cuisson: 30min
-tags: vegetariano, arroz, adivinadas
+tags: vegetariano, arroz
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pettole
-tags: postre, completadas, Nonna
+tags: postre, Nonna
 lang: it
 ---
 

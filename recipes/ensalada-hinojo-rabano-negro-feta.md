@@ -2,7 +2,7 @@
 title: Ensalada de hinojo con vinagreta de piña de abeto, rábano negro, zanahoria y feta
 portions: 2
 preparation: 15min
-tags: ensalada, entrante, vegetariano, completadas
+tags: ensalada, entrante, vegetariano
 lang: es
 ---
 

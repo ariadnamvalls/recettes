@@ -1,7 +1,7 @@
 ---
 title: Ojas Buster
 portions: 4
-tags: bebida, vegano, sin-gluten, completadas
+tags: bebida, vegano, sin-gluten
 lang: es
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pastel de zanahoria
 cuisson: 35min
-tags: postre, bizcocho, completadas
+tags: postre, bizcocho
 lang: es
 ---
 

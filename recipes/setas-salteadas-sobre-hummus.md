@@ -3,7 +3,7 @@ title: Setas salteadas sobre hummus con piñones
 portions: 2
 preparation: 15min
 cuisson: 15min
-tags: entrante, vegetariano, legumbres, adivinadas
+tags: entrante, vegetariano, legumbres
 lang: es
 ---
 

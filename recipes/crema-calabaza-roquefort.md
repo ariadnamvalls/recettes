@@ -3,7 +3,7 @@ title: Crema de calabaza y roquefort
 portions: 4
 preparation: 10min
 cuisson: 25min
-tags: sopa, vegetariano, completadas
+tags: sopa, vegetariano
 lang: es
 ---
 

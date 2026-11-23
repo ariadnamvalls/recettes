@@ -2,7 +2,7 @@
 title: Patata, hinojo, ajo y romero al horno
 portions: 2
 cuisson: 40min
-tags: vegano, sin-gluten, completadas
+tags: vegano, sin-gluten
 lang: es
 ---
 

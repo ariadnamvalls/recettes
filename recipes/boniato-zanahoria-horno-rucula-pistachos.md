@@ -2,7 +2,7 @@
 title: Boniato y zanahoria al horno con queso, cherrys, pistachos y rúcula
 portions: 2
 cuisson: 30min
-tags: ensalada, vegetariano, completadas
+tags: ensalada, vegetariano
 lang: es
 ---
 

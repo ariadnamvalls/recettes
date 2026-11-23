@@ -3,7 +3,7 @@ title: Tofu crujiente con patacones y aguacate
 portions: 2
 preparation: 15min
 cuisson: 25min
-tags: vegetariano, adivinadas
+tags: vegetariano
 lang: es
 ---
 

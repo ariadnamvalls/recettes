@@ -3,7 +3,7 @@ title: Crep de garbanzo con tofu, lombarda y tomates asados
 portions: 2
 preparation: 20min
 cuisson: 30min
-tags: vegetariano, sin-gluten, adivinadas, street-food
+tags: vegetariano, sin-gluten, street-food
 lang: es
 ---
 

@@ -2,7 +2,7 @@
 title: Tortita de maíz con hummus de lenteja, ricotta, cebolla encurtida, cilantro y albahaca
 portions: 1
 preparation: 10min
-tags: legumbres, vegetariano, completadas
+tags: legumbres, vegetariano
 lang: es
 ---
 

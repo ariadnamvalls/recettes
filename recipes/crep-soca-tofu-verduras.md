@@ -3,7 +3,7 @@ title: Crep soca con tofu, verduras, perejil y queso crema
 portions: 2
 preparation: 15min
 cuisson: 15min
-tags: vegetariano, sin-gluten, completadas, street-food
+tags: vegetariano, sin-gluten, street-food
 lang: es
 ---
 

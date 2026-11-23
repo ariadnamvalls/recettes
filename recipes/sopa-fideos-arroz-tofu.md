@@ -3,7 +3,7 @@ title: Sopa de fideos de arroz con tofu
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: sopa, vegano, adivinadas
+tags: sopa, vegano
 lang: es
 ---
 

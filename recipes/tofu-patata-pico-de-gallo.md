@@ -3,7 +3,7 @@ title: Tofu, patata y pico de gallo
 portions: 2
 preparation: 15min
 cuisson: 35min
-tags: vegano, completadas
+tags: vegano
 lang: es
 ---
 

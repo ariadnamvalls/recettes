@@ -2,7 +2,7 @@
 title: Boniato y calabaza al horno con halloumi, quinoa crujiente y avellanas
 portions: 2
 cuisson: 35min
-tags: vegetariano, completadas
+tags: vegetariano
 lang: es
 ---
 

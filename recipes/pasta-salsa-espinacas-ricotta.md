@@ -1,7 +1,7 @@
 ---
 title: Pasta con salsa de espinacas y ricotta
 portions: 2
-tags: pasta, vegetariano, completadas
+tags: pasta, vegetariano
 lang: es
 ---
 

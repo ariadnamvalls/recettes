@@ -3,7 +3,7 @@ title: Casado de arroz, frijoles y patacones
 portions: 3
 preparation: 20min
 cuisson: 40min
-tags: vegano, legumbres, arroz, adivinadas
+tags: vegano, legumbres, arroz
 lang: es
 ---
 

@@ -3,7 +3,7 @@ title: Cake sin gluten de miel y romero
 portions: 8
 preparation: 15min
 cuisson: 45min
-tags: postre, bizcocho, sin-gluten, completadas
+tags: postre, bizcocho, sin-gluten
 lang: es
 ---
 

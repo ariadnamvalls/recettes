@@ -2,7 +2,7 @@
 title: Bol de trigo sarraceno con leche vegetal y tahini
 portions: 1
 preparation: 5min
-tags: desayuno, vegano, sin-gluten, completadas, adivinadas
+tags: desayuno, vegano, sin-gluten
 lang: es
 ---
 

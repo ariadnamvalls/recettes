@@ -1,7 +1,7 @@
 ---
 title: Semillas y frutos secos tostados con cobertura de chocolate
 preparation: 15min
-tags: postre, vegano, completadas
+tags: postre, vegano
 lang: es
 ---
 

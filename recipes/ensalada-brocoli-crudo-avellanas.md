@@ -2,7 +2,7 @@
 title: Ensalada de brócoli crudo con avellanas y pasas
 portions: 2
 preparation: 15min
-tags: ensalada, vegano, adivinadas
+tags: ensalada, vegano
 lang: es
 ---
 

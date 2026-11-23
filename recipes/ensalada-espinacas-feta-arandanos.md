@@ -3,7 +3,7 @@ title: Ensalada de espinacas, feta y arándanos
 portions: 2
 preparation: 15min
 cuisson: 10min
-tags: ensalada, vegetariano, adivinadas
+tags: ensalada, vegetariano
 lang: es
 ---
 

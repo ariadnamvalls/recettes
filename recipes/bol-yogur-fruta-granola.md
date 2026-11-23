@@ -2,7 +2,7 @@
 title: Bol de yogur con fruta y granola
 portions: 1
 preparation: 5min
-tags: desayuno, vegetariano, adivinadas
+tags: desayuno, vegetariano
 lang: es
 ---
 

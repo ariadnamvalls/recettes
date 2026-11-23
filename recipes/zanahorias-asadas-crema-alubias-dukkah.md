@@ -3,7 +3,7 @@ title: Zanahorias asadas sobre crema de alubias con dukkah
 portions: 2
 preparation: 15min
 cuisson: 30min
-tags: entrante, vegano, legumbres, adivinadas
+tags: entrante, vegano, legumbres
 lang: es
 ---
 

@@ -2,7 +2,7 @@
 title: Kombucha
 portions: 6
 preparation: 20min
-tags: bebida, vegano, adivinadas
+tags: bebida, vegano
 lang: es
 ---
 

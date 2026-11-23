@@ -1,6 +1,6 @@
 ---
 title: Pan de molde
-tags: pan, vegetariano, completadas
+tags: pan, vegetariano
 lang: es
 ---
 

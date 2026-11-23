@@ -2,7 +2,7 @@
 title: Minestrone
 portions: 4
 cuisson: 40min
-tags: sopa, vegano, completadas
+tags: sopa, vegano
 lang: es
 ---
 

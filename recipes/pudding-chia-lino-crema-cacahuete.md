@@ -1,7 +1,7 @@
 ---
 title: Pudding de chía y lino con crema de cacahuete
 portions: 1
-tags: desayuno, vegano, sin-gluten, completadas
+tags: desayuno, vegano, sin-gluten
 lang: es
 ---
 

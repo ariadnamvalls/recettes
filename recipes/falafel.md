@@ -3,7 +3,7 @@ title: Falafel
 portions: 4
 preparation: 20min
 cuisson: 15min
-tags: legumbres, vegano, completadas
+tags: legumbres, vegano
 lang: es
 ---
 

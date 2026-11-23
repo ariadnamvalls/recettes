@@ -3,7 +3,7 @@ title: Boniato, calabaza, cherrys, olivas negras y feta al horno
 portions: 2
 preparation: 15min
 cuisson: 40min
-tags: vegetariano, completadas
+tags: vegetariano
 lang: es
 ---
 

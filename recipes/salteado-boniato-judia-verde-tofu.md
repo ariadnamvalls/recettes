@@ -3,7 +3,7 @@ title: Salteado de boniato, judía verde y tofu con tomate seco y pipas tostadas
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: vegano, completadas
+tags: vegano
 lang: es
 ---
 

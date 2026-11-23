@@ -3,7 +3,7 @@ title: Ramen con leche de coco y tofu
 portions: 2
 preparation: 10min
 cuisson: 20min
-tags: sopa, vegano, completadas
+tags: sopa, vegano
 lang: es
 ---
 

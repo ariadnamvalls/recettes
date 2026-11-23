@@ -3,7 +3,7 @@ title: Ensalada de col, espinacas, manzana, calabaza al horno, garbanzos, feta y
 portions: 4
 preparation: 15min
 cuisson: 30min
-tags: ensalada, vegetariano, completadas
+tags: ensalada, vegetariano
 lang: es
 ---
 

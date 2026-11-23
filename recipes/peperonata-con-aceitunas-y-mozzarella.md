@@ -3,7 +3,7 @@ title: Peperonata con aceitunas, tomate, rúcula y mozzarella
 portions: 2
 preparation: 15min
 cuisson: 30min
-tags: vegetariano, adivinadas
+tags: vegetariano
 lang: es
 ---
 

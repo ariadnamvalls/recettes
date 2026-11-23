@@ -2,7 +2,7 @@
 title: Pan negro con tofu, mayonesa, cherrys y bomba calabrese
 portions: 2
 preparation: 10min
-tags: pan, vegetariano, sandich
+tags: pan, vegetariano, sandwich
 lang: es
 ---
 

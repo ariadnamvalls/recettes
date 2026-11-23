@@ -3,7 +3,7 @@ title: Pasta con crema de calabaza
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: pasta, vegetariano, completadas
+tags: pasta, vegetariano
 lang: es
 ---
 

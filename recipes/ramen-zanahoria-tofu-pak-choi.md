@@ -3,7 +3,7 @@ title: Ramen de zanahoria, tofu, cebolla y pak choi
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: sopa, vegano, completadas
+tags: sopa, vegano
 lang: es
 ---
 

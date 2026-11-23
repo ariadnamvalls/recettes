@@ -3,7 +3,7 @@ title: Crema de calabaza y lenteja roja
 portions: 4
 preparation: 15min
 cuisson: 30min
-tags: sopa, vegetariano, completadas
+tags: sopa, vegetariano
 lang: es
 ---
 

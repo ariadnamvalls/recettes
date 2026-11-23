@@ -3,7 +3,7 @@ title: Bolas de quinoa
 portions: 2
 preparation: 15min
 cuisson: 25min
-tags: vegetariano, completadas
+tags: vegetariano
 lang: es
 ---
 

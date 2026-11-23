@@ -3,7 +3,7 @@ title: Pasta con crema de espinacas y ricotta y alubias
 portions: 2
 preparation: 10min
 cuisson: 15min
-tags: pasta, legumbres, vegetariano, completadas
+tags: pasta, legumbres, vegetariano
 lang: es
 ---
 

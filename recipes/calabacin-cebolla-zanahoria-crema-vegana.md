@@ -3,7 +3,7 @@ title: Calabacín, cebolla y zanahoria salteados con crema vegana
 portions: 2
 preparation: 10min
 cuisson: 20min
-tags: vegano, completadas
+tags: vegano
 lang: es
 ---
 

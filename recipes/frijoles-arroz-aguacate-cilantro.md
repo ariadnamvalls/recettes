@@ -2,7 +2,7 @@
 title: Frijoles con arroz, aguacate y cilantro
 portions: 2
 cuisson: 20min
-tags: legumbres, arroz, vegano, completadas
+tags: legumbres, arroz, vegano
 lang: es
 ---
 

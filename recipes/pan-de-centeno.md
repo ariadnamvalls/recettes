@@ -3,7 +3,7 @@ title: Pan de centeno
 portions: 1
 preparation: 20min
 cuisson: 50min
-tags: pan, vegano, adivinadas
+tags: pan, vegano
 lang: es
 ---
 

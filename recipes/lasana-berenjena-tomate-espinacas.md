@@ -3,7 +3,7 @@ title: “Lasaña” de berenjena, tomate y espinacas con ricotta
 portions: 4
 preparation: 20min
 cuisson: 40min
-tags: vegetariano, completadas
+tags: vegetariano
 lang: es
 ---
 

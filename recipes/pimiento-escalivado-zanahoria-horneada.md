@@ -3,7 +3,7 @@ title: Pimiento escalivado y zanahoria horneada con pepinillos, alcaparras y oli
 portions: 2
 preparation: 10min
 cuisson: 45min
-tags: entrante, vegano, completadas
+tags: entrante, vegano
 lang: es
 ---
 

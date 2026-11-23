@@ -3,7 +3,7 @@ title: Lentejas guisadas con feta y cebolla encurtida
 portions: 4
 preparation: 15min
 cuisson: 40min
-tags: legumbres, vegetariano, adivinadas
+tags: legumbres, vegetariano
 lang: es
 ---
 

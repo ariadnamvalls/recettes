@@ -3,7 +3,7 @@ title: Falafel con arroz, tahini y labneh
 portions: 2
 preparation: 20min
 cuisson: 25min
-tags: vegetariano, legumbres, arroz, adivinadas
+tags: vegetariano, legumbres, arroz
 lang: es
 ---
 
