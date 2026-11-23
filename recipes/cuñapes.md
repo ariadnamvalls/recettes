@@ -3,7 +3,7 @@ title: Cuñapes
 portions: 12
 preparation: 15min
 cuisson: 30min
-tags: snack, fromage, végétarien, gluten-free
+tags: snack, pan, sin-gluten
 lang: fr
 ---
 
