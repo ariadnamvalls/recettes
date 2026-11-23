@@ -1,6 +1,6 @@
 ---
 title: Ñoquis de sémola
-tags: vegetariano, completadas
+tags: vegetariano, abuela
 lang: es
 ---
 
