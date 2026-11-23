@@ -3,7 +3,7 @@ title: Hamburguesas de quinoa y ajo silvestre con salbitxada
 portions: 4
 preparation: 40min
 cuisson: 30min
-tags: vegetariano
+tags: vegetariano, proteina
 lang: es
 ---
 

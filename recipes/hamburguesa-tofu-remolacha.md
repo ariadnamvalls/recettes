@@ -2,7 +2,7 @@
 title: Hamburguesas de tofu y remolacha
 portions: 4
 cuisson: 30min
-tags: vegano
+tags: vegano, proteina
 lang: es
 ---
 

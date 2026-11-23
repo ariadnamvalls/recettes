@@ -1,6 +1,6 @@
 ---
 title: Hamburguesas de garbanzos
-tags: legumbres, vegano
+tags: legumbres, vegano, proteina
 lang: es
 ---
 
