@@ -12,16 +12,15 @@ lang: it
 
 ## Passo 1
 
-Stesso procedimento della [parmigiana](parmigiana.md): *friggere* le {{ melanzane }} impanate e preparare il {{ sugo }}.
+ *friggere* le {{ melanzane }} tagliate a cuadretini e preparare il {{ sugo }}.
 
 ## Passo 2
 
-*Lessare a metà* i {{ tortiglioni }}.
+Mettere nel sugo le melazane fritte e continuare a cuocere.
 
 ## Passo 3
 
-In un recipiente grande mettere a strati: melanzane - pasta - {{ formaggio }} - sugo.
+Cuocere i tortiglioni.
 
 ## Passo 4
-
-*Ricoprire* con carta stagnola e *infornare* a **150-180ºC** per 20min circa.
+Servire con {{ cacioricotta }}.
