@@ -1,9 +1,9 @@
 ---
-title: Tostada de berenjena, cebolla caramelizada y emmental
+title: Sandwich de berenjena, cebolla caramelizada y emmental
 portions: 2
 preparation: 10min
 cuisson: 30min
-tags: pan, vegetariano, completadas
+tags: sandwich
 lang: es
 ---
 
