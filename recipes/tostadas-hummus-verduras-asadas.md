@@ -3,7 +3,7 @@ title: Tostadas de hummus con verduras asadas y cebolla encurtida
 portions: 4
 preparation: 15min
 cuisson: 30min
-tags: entrante, vegetariano, pan, adivinadas
+tags: sandwich
 lang: es
 ---
 
