@@ -1,5 +1,5 @@
 ---
-title: Sopa de verduras con espinacas y parmesano
+title: Minestrone
 portions: 4
 preparation: 15min
 cuisson: 30min
