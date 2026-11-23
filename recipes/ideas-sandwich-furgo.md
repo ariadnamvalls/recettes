@@ -1,6 +1,6 @@
 ---
 title: Ideas sandwich para furgo
-tags: plato, snack, rápido, duda
+tags: plato, snack, rápido, sandwich
 lang: es
 ---
 
