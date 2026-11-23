@@ -3,7 +3,7 @@ title: Banana bread a la plancha con tahini y miel
 portions: 10
 preparation: 20min
 cuisson: 1h10
-tags: postre, bizcocho, vegetariano
+tags: postre, bizcocho,
 lang: es
 ---
 
