@@ -3,7 +3,7 @@ title: Frittata de garbanzo
 portions: 2
 preparation: 10min
 cuisson: 25min
-tags: vegano, sin-gluten, completadas
+tags: vegano, sin-gluten, street-food
 lang: es
 ---
 
