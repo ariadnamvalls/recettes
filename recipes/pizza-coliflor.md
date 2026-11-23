@@ -3,7 +3,7 @@ title: Pizza de coliflor con pesto y tomate
 portions: 1
 preparation: 15min
 cuisson: 30min
-tags: vegetariano, sin-gluten, completadas
+tags: vegetariano, sin-gluten, street-food
 lang: es
 ---
 
