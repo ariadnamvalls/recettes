@@ -1,7 +1,7 @@
 ---
 title: Plumcake de la Abuela
 cuisson: 30min
-tags: postre, bizcocho
+tags: postre, bizcocho, abuela
 lang: es
 ---
 
