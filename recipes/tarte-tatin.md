@@ -2,7 +2,7 @@
 title: Tarte Tatin
 portions: 6
 preparation: 20min
-tags: dessert, tarte
+tags: postre
 lang: fr
 ---
 
