@@ -1,7 +1,7 @@
 ---
 title: Bocata de parmigiana
 portions: 1
-tags: plato, pan, vegetariano, queso, rápido, completadas
+tags: pan, vegetariano, sandwich
 lang: es
 ---
 
