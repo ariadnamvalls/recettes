@@ -3,7 +3,7 @@ title: Sirop de citron au gingembre
 portions: 20
 preparation: 10min
 cuisson: 45min
-tags: bebidas
+tags: bebida
 lang: fr
 ---
 
