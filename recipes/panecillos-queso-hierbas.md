@@ -1,22 +1,35 @@
 ---
-title: Panecillos de queso con hierbas
+title: Cuñapes
 portions: 12
 preparation: 15min
-cuisson: 25min
-tags: pan, vegetariano, sin-gluten, adivinadas
-lang: es
+cuisson: 30min
+tags: snack, fromage, végétarien, gluten-free
+lang: fr
 ---
 
-# Preparación
+# Préparation
 
-## Paso 1
+## Étape 1
 
-*Calentar* {{ 125ml de leche }} con {{ 60ml de aceite }} y una {{ pizca de sal }} hasta que hierva, y *verter* sobre {{ 250g de almidón de mandioca (tapioca) }}. *Mezclar*.
+*Faire un puits* avec {{ 250g de farine de manioc }} « pandeyuca » (Colmaiz).
 
-## Paso 2
+## Étape 2
 
-Cuando esté tibia, *añadir* {{ 1 huevo }}, {{ 100g de queso rallado }} y {{ hierbas frescas picadas (perejil, orégano) }}, y *amasar*.
+*Ajouter* {{ 25g d'huile, margarine ou beurre }}, {{ 1 oeuf }} et une partie des {{ 150ml d'eau }}. Bien mélanger.
 
-## Paso 3
+## Étape 3
 
-*Formar* bolitas y *hornear* 25min a **180ºC**, hasta que estén doradas.
+*Ajouter* le reste de l'eau et {{ 250g de fromage }}.
+
+## Étape 4
+
+*Répartir* dans un {{ moule à muffins }}.
+
+## Étape 5
+
+*Enfourner* à **230ºC** jusqu'à ce que ça lève, puis à **180ºC** jusqu'à ce que ce soit doré (environ 30min au total).
+
+# Conseils
+
+- Proportions : oeuf et graisse à 10% du poids de farine, eau à 60%.
+- Fromage : entre 150g et 250g.
