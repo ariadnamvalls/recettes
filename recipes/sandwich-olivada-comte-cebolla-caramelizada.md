@@ -2,7 +2,7 @@
 title: Sándwich de olivada, comté, cebolla caramelizada y brotes
 portions: 1
 preparation: 30min
-tags: vegetariano, completadas
+tags: vegetariano, sandwich
 lang: es
 ---
 
