@@ -28,7 +28,7 @@ Añadirlo a la salsa de tomate y *cocinar* hasta que reduzca.
 
 ## Paso 5
 
-*Hacer* la bechamel vegana con {{ 8 cdas de aceite de oliva virgen extra }}, {{ 120g de harina de trigo }}, {{ 1,4 l de leche vegetal }}, {{ 1/2 cdta de nuez moscada }}, {{ 1 cdta de sal }} y {{ pimienta }}.
+*Hacer* la bechamel vegana con {{ 8 cdas de aceite de oliva virgen extra }}, {{ 120g de harina de trigo }}, {{ 1,4 l de leche soja }}, {{ 1/2 cdta de nuez moscada }}, {{ 1 cdta de sal }} y {{ pimienta }}.
 
 ## Paso 6
 
