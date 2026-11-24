@@ -2,7 +2,7 @@
 title: Barres aux dattes
 preparation: 20min
 cuisson: 1h
-tags:
+tags: desayuno, postre
 lang: fr
 ---
 
