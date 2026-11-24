@@ -1,6 +1,6 @@
 ---
 title: Tortilla de patata Abuela
-tags: vegetariano, sin-gluten
+tags: abuela, street-food, vegetariano
 lang: es
 ---
 
