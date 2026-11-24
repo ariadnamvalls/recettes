@@ -1,7 +1,7 @@
 ---
 title: Banana bread
 cuisson: 1h
-tags: postre, bizcocho, desayuno, nonna
+tags: postre, desayuno,
 lang: it
 ---
 
