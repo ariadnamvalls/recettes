@@ -1,6 +1,6 @@
 ---
 title: Sorbetto al limone
-tags: postre, vegano, sin-gluten, nonna
+tags: postre, nonna
 lang: it
 ---
 
