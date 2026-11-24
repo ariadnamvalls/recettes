@@ -12,8 +12,8 @@ lang: es
 
 ## Paso 1
 
-Poner en un bol {{ 4 cdas de trigo sarraceno }} (crudo o tostado) y *cubrir* con {{ 200ml de leche vegetal }}.
+Poner en un bol {{ 4 cdas de trigo sarraceno }} (crudo o tostado) y *cubrir* con {{ 200ml de leche vegetal como coco }} dejar reposar toda la noche.
 
 ## Paso 2
 
-*Regar* con {{ 1 cda de tahini }} y *espolvorear* con {{ 1 pizca de canela }}.
+*Regar* con {{ 1 cda de tahini }} y *espolvorear* con {{ polen }}.
