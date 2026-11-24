@@ -1,6 +1,6 @@
 ---
 title: Sobrasada vegana
-tags: entrante, vegetariano
+tags: entrante, dip
 lang: es
 ---
 
@@ -10,8 +10,10 @@ lang: es
 
 ## Paso 1
 
-*Triturar* {{ tomates secos }}, {{ pan rallado }} (o galletas), {{ pimentón picante y dulce }} y {{ aceite }}, e ir probando las cantidades.
+*Triturar* {{ tomates secos }}, {{ pan rallado }} , {{puñado nueces}}, {{ pimentón picante y dulce }} y {{ajo en polvo}}, {{ aceite }}, e ir probando las cantidades.
 
 ## Paso 2
 
 Está muy buena con tostadas al horno y con {{ miel }} por encima.
+
+Si queremos que quede duro también podemos ponerle aceite de coco desodorizado, darle la forma que queramos con un plastico y ponerlo en la nevera para que se quede firme.
