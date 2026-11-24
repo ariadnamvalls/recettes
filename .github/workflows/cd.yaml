@@ -33,7 +33,7 @@ jobs:
           key: recettes-images-${{ github.sha }}
           restore-keys: recettes-images-
       - name: Build recipe website
-        run: recettes build recipes --destination site --title "Mis Recetas"
+        run: recettes build recipes --destination site --title "Mis Recetas" --lang es
       - name: Compute picture cache key
         id: cache-key
         run: echo "key=recettes-images-${{ hashFiles('.recettes-cache/**') }}" >> "$GITHUB_OUTPUT"
