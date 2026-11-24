@@ -1,6 +1,6 @@
 ---
 title: Sorbete de frutas
-tags: postre, vegano, sin-gluten
+tags: postre,
 lang: es
 ---
 
