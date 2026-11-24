@@ -1,6 +1,6 @@
 ---
 title: Tortilla de patata vegana
-tags: vegano, sin-gluten
+tags: vegano, street-food
 lang: es
 ---
 
