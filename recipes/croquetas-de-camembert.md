@@ -1,6 +1,6 @@
 ---
 title: Croquetas de camembert
-tags: entrante, vegetariano
+tags: entrante, abuela
 lang: es
 ---
 
