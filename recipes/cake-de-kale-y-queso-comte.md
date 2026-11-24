@@ -1,6 +1,6 @@
 ---
 title: Cake de kale y queso comté
-portions: 1 cake
+portions: 8
 preparation: 15min
 cuisson: 35-40min
 tags: pan, vegetariano
