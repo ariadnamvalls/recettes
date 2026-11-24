@@ -1,6 +1,6 @@
 ---
 title: Guisantes del Sur
-tags: legumbres, vegano
+tags: legumbres, nonna, vegano
 lang: es
 ---
 
@@ -15,7 +15,7 @@ Se *sofríe* un poco {{ cebolla tierna }} con {{ ajo }}.
 
 ## Paso 2
 
-Se añaden {{ 150g de guisantes frescos por persona }} y {{ laurel }}.
+Se añaden {{ 150g de guisantes frescos por persona }}, {{ laurel }} y {{pastilla caldo verduras}}.
 
 ## Paso 3
 
@@ -23,4 +23,4 @@ Dejar *cocer* un buen rato (quedan un poco líquidos).
 
 ## Paso 4
 
-Servir con {{ pasta o arroz }}.
+Servir solo, con {{ pasta o arroz }}.
