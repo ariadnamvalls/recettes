@@ -1,7 +1,7 @@
 ---
 title: Bebida de quinoa (desayuno Perú)
 cuisson: 50min
-tags: bebida, desayuno, vegano
+tags: bebida, desayuno,
 lang: es
 ---
 
