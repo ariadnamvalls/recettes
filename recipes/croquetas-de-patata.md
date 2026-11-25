@@ -1,6 +1,6 @@
 ---
 title: Croquetas de patata
-tags: entrante, vegetariano
+tags: entrante, nonna
 lang: es
 ---
 
