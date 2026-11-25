@@ -15,7 +15,7 @@ Se *hierven* {{ 1/2 kg de patatas }} (4 o 5) con la piel.
 
 ## Paso 2
 
-Se pasan por el pasapurés y se *mezclan* con {{ 2 huevos }}, {{ 1 cda de pan rallado }}, {{ 3 cdas de queso parmesano }} y {{ 1 pizca de sal }}.
+Se pasan por el pasapurés y se *mezclan* con {{ 2 huevos }}, {{ 1 cda de pan rallado }}, {{ 3 cdas de queso parmesano }} y {{ 1 pizca de sal }} y se les puede añadir un poco de {{perejil}}
 
 ## Paso 3
 
